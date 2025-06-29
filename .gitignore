@@ -1,0 +1,19 @@
+# Archivos grandes o binarios
+*.dwg
+*.etp
+*.zip
+*.bak
+*.tmp
+*.psd
+
+# Carpetas de respaldo
+09_Respaldo/Copias_Seguridad/
+
+# Archivos temporales de Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,87 @@
+## Sistema_Puesta_A_Tierra_Proyecto_AgXplore[SPT-TD-2025]/
+
+### 01_Documentacion_Tecnica/
+	- Borradores/
+		- Informe_Preliminar_SPT_[SPT-TD-2025]_v1.docx
+		- Informe_Preliminar_SPT_[SPT-TD-2025]_v2.docx
+	- Final/
+		- Informe_Tecnico_Final_SPT_[SPT-TD-2025].docx
+		- Informe_Tecnico_Final_SPT_[SPT-TD-2025].pdf
+	- Referencias/
+		- IEEE_80_Guia_Puesta_Tierra.pdf
+		- Normativa_NB777.pdf
+		- Articulo_Academico_Puesta_Tierra.pdf
+		
+### 02_Planos_y_Diagramas/
+	- Planos_Diseño/
+		- SPT_Diagrama_Unifilar_[SPT-TD-2025].dwg
+		- SPT_Plano_Sistema_Puesta_A_Tierra_[SPT-TD-2025].dwg
+		- SPT_Detalle_Electrodos_[SPT-TD-2025].pdf
+	- Revisiones/
+		- SPT_Diagrama_Unifilar_[SPT-TD-2025]_Rev01.dwg
+		- Comentarios_Tutor_[Fecha:YYYY-MM-DD].docx
+		
+### 03_Calculos_y_Datos/
+	- Hojas_Calculo/
+		- Calculo_Resistencia_Puesta_Tierra_[SPT-TD-2025].xlsx
+		- Dimensionamiento_Electrodos_[SPT-TD-2025].xlsx
+		- Dimensionamiento_Conductor_Tierra_[SPT-TD-2025].xlsx
+	- Mediciones/
+		- Mediciones_Resistencia_Suelo_[Fecha:YYYY-MM-DD].csv
+		- Registro_Inspeccion_[Fecha:YYYY-MM-DD].xlsx
+		
+### 04_Simulaciones_ETAP/
+	  - Modelos/
+		- SPT_Modelo_Puesta_Tierra_[SPT-TD-2025]_v1.etp
+		- SPT_Modelo_Validacion_[SPT-TD-2025]_v2.etp
+	  - Reportes/
+		- Reporte_Simulacion_Resistencia_[Fecha:YYYY-MM-DD].pdf
+		- Reporte_Fallas_Tierra_[SPT-TD-2025].pdf
+	  - Imagenes_Simulacion/
+		- Nombre_Simulacion_ETAP[001].png
+	
+### 05_Lista_Materiales_Herramientas/
+	  - Herramientas_Consumibles/
+	    - Lista_Materiales_[SPT-TD-2025].xlsx
+	    - Lista_Herramientas_[SPT-TD-2025].xlsx
+	    - Lista_Consumibles_[SPT-TD-2025].xlsx
+	  - Presupuestos/
+		- Presupuesto_Materiales_[SPT-TD-2025].xlsx
+		- Cotizacion_Proveedores_[Fecha:YYYY-MM-DD].pdf
+		- Presupuesto_Estimado_[SPT-TD-2025].xlsx
+
+### 06_Diapositivas/
+	  - Borradores/
+		- Presentacion_Progreso_[Fecha:YYYY-MM-DD].pptx
+		- Presentacion_Revision_Tutor_[SPT-TD-2025]_v1.pptx
+	  - Final/
+		- Presentacion_Final_SPT_[SPT-TD-2025].pptx
+		- Presentacion_Final_SPT_[SPT-TD-2025].pdf
+
+### 07_Gestion_Proyecto/
+	  - Cronogramas/
+	    - Cronograma_Proyecto_[SPT-TD-2025].xlsx
+	    - Gantt_Proyecto_[Fecha:YYYY-MM-DD].pdf
+	  - Correspondencia/
+	    - Correo_Cliente_Aprobacion_[Fecha:YYYY-MM-DD].pdf
+	    - Minuta_Reunion_[Fecha:YYYY-MM-DD].docx
+
+### 08_Anexos/
+	  - Imagenes/
+		- Foto_Sitio_[Fecha:YYYY-MM-DD]_[ID].jpg
+		- Esquema_Puesta_Tierra_[SPT-TD-2025].png
+	  - Notas/
+		- Notas_Reunion_Tutor_[Fecha:YYYY-MM-DD].docx
+		- Apuntes_Campo_[Fecha:YYYY-MM-DD].txt
+	  - Documentos_Adicionales/
+		- Ficha_Tecnica_Materiales.pdf
+		- Ficha_Tecnica_Equipos.pdf
+
+### 09_Respaldo/
+	  - Copias_Seguridad/
+		- Backup_Proyecto_[Fecha:YYYY-MM-DD].zip
+	  - Versiones_Antiguas/
+		- Informe_Preliminar_v1_[Fecha:YYYY-MM-DD].docx
+		- Plano_General_v1_[Fecha:YYYY-MM-DD].dwg
+		- SPT_Modelo_Puesta_Tierra_v1_[Fecha:YYYY-MM-DD].etp
+

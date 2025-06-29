@@ -1,0 +1,95 @@
+# Estructura de Carpetas para Proyecto de Sistema de Puesta a Tierra (Trabajo Dirigido - Universidad)
+
+## Proyecto_Puesta_Tierra_[Código_Proyecto]/
+# Nota: Reemplaza [Código_Proyecto] con un identificador único, ej. SPT-TD-2025
+
+### 01_Informe_Tecnico/
+  - Borradores/
+    - Informe_Preliminar_SPT_[Código_Proyecto]_v1.docx
+    - Informe_Preliminar_SPT_[Código_Proyecto]_v2.docx
+  - Final/
+    - Informe_Tecnico_Final_SPT_[Código_Proyecto].docx
+    - Informe_Tecnico_Final_SPT_[Código_Proyecto].pdf
+  - Referencias/
+    - IEEE_80_Guia_Puesta_Tierra.pdf
+    - Normativa_NEC_Articulos.pdf
+    - Articulo_Academico_Puesta_Tierra.pdf
+
+### 02_Planos_y_Diagramas/
+  - Planos/
+    - SPT_Diagrama_Unifilar_[Código_Proyecto].dwg
+    - SPT_Plano_Sistema_Puesta_Tierra_[Código_Proyecto].dwg
+    - SPT_Detalle_Electrodos_[Código_Proyecto].pdf
+  - Revisiones/
+    - SPT_Diagrama_Unifilar_[Código_Proyecto]_Rev01.dwg
+    - Comentarios_Tutor_[Fecha:YYYY-MM-DD].docx
+
+### 03_Calculos_y_Datos/
+  - Hojas_Calculo/
+    - Calculo_Resistencia_Puesta_Tierra_[Código_Proyecto].xlsx
+    - Dimensionamiento_Electrodos_[Código_Proyecto].xlsx
+  - Mediciones/
+    - Mediciones_Resistencia_Suelo_[Fecha:YYYY-MM-DD].csv
+    - Registro_Inspeccion_[Fecha:YYYY-MM-DD].xlsx
+
+### 04_Simulaciones_ETAP/
+  - Modelos/
+    - SPT_Modelo_Puesta_Tierra_[Código_Proyecto]_v1.etp
+    - SPT_Modelo_Validacion_[Código_Proyecto]_v2.etp
+  - Reportes/
+    - Reporte_Simulacion_Resistencia_[Fecha:YYYY-MM-DD].pdf
+    - Reporte_Fallas_Tierra_[Código_Proyecto].pdf
+
+### 05_Diapositivas/
+  - Borradores/
+    - Presentacion_Progreso_[Fecha:YYYY-MM-DD].pptx
+    - Presentacion_Revision_Tutor_[Código_Proyecto]_v1.pptx
+  - Final/
+    - Presentacion_Final_SPT_[Código_Proyecto].pptx
+    - Presentacion_Final_SPT_[Código_Proyecto].pdf
+
+### 06_Anexos/
+  - Imagenes/
+    - Foto_Sitio_[Fecha:YYYY-MM-DD]_[ID].jpg
+    - Esquema_Puesta_Tierra_[Código_Proyecto].png
+  - Notas/
+    - Notas_Reunion_Tutor_[Fecha:YYYY-MM-DD].docx
+    - Apuntes_Campo_[Fecha:YYYY-MM-DD].txt
+  - Documentos_Adicionales/
+    - Ficha_Tecnica_Materiales.pdf
+    - Presupuesto_Estimado_[Código_Proyecto].xlsx
+
+### 07_Respaldo/
+  - Copias_Seguridad/
+    - Backup_Proyecto_[Fecha:YYYY-MM-DD].zip
+  - Versiones_Antiguas/
+    - Informe_Preliminar_v1_[Fecha:YYYY-MM-DD].docx
+    - SPT_Modelo_Puesta_Tierra_v1_[Fecha:YYYY-MM-DD].etp
+
+## Recomendaciones para Organización (Contexto Universitario):
+
+1. **Nomenclatura Clara**:
+   - Usa un código de proyecto (ej. SPT-TD-2025) para identificar el trabajo dirigido.
+   - Incluye versiones (v1, v2) o fechas (YYYY-MM-DD) en los nombres, ej. "Informe_Preliminar_SPT_v1.docx".
+2. **Informe Técnico**:
+   - Estructura el informe en secciones: introducción, objetivos, metodología, cálculos, simulaciones, resultados, conclusiones y referencias.
+   - Exporta la versión final a PDF para entrega al tutor o jurado.
+3. **Planos y Diagramas**:
+   - Usa AutoCAD para planos (DWG) y exporta a PDF para incluir en el informe o presentaciones.
+   - Registra los comentarios del tutor en la carpeta de revisiones.
+4. **Simulaciones en ETAP**:
+   - Guarda modelos (.etp) en "Modelos" y exporta reportes a PDF en "Reportes" para incluirlos en el informe.
+   - Documenta parámetros de simulación (como resistividad del suelo) en un archivo XLSX si es necesario.
+5. **Diapositivas**:
+   - Usa plantillas de PowerPoint proporcionadas por la universidad, si las hay.
+   - Separa presentaciones de progreso (para tutor) de la presentación final (para jurado).
+   - Exporta la presentación final a PDF para entrega.
+6. **Respaldo**:
+   - Guarda copias de seguridad en un servicio en la nube (Google Drive, OneDrive) o un USB.
+   - Mantén versiones antiguas de documentos y modelos para rastrear cambios.
+7. **Anexos**:
+   - Incluye fotos del sitio, esquemas ilustrativos y notas de reuniones con el tutor.
+   - Usa un archivo XLSX para estimaciones de presupuesto o listas de materiales.
+8. **Cumplimiento Académico**:
+   - Asegúrate de citar correctamente las normas (IEEE 80, NEC) y artículos en la carpeta de referencias.
+   - Organiza las mediciones y datos brutos para respaldar los cálculos en el informe.

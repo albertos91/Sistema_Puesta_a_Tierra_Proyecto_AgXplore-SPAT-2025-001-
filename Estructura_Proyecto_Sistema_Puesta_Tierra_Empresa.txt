@@ -1,0 +1,131 @@
+# Estructura de Carpetas para Proyecto de Sistema de Puesta a Tierra (Entorno Empresarial)
+
+## Sistema_Puesta_Tierra_Proyecto\_\[Código_Proyecto\]/
+
+# Nota: Reemplaza \[Código_Proyecto\] con un identificador único, ej. SPT-2025-001
+
+### 01_Documentacion_Tecnica/
+
+- Especificaciones/
+  - Espec_Tecnica_Sistema_Puesta_Tierra\_\[Código_Proyecto\]\_v1.docx
+  - Requerimientos_Cliente\_\[Código_Proyecto\].pdf
+- Informes/
+  - Informe_Diseño_Preliminar\_\[Fecha:YYYY-MM-DD\].docx
+  - Informe_Validacion_Resistencia\_\[Fecha:YYYY-MM-DD\].pdf
+  - Memoria_Tecnica_Final\_\[Código_Proyecto\].pdf
+- Normativas_y_Referencias/
+  - IEEE_80_2020_Guia_Puesta_Tierra.pdf
+  - NEC_2023_Articulos_Relacionados.pdf
+  - Estudio_Suelo\_\[Fecha:YYYY-MM-DD\].pdf
+
+### 02_Planos_y_Diagramas/
+
+- Planos_Diseño/
+  - SPT_Diagrama_Unifilar\_\[Código_Proyecto\]\_v1.dwg
+  - SPT_Plano_General_Puesta_Tierra\_\[Código_Proyecto\].dwg
+  - SPT_Detalle_Electrodos\_\[Código_Proyecto\].pdf
+- Planos_Aprobados/
+  - SPT_Diagrama_Unifilar\_\[Código_Proyecto\]\_Aprobado.pdf
+  - SPT_Plano_General_Aprobado\_\[Fecha:YYYY-MM-DD\].pdf
+- Revisiones/
+  - SPT_Diagrama_Unifilar\_\[Código_Proyecto\]\_Rev01.dwg
+  - Comentarios_Revision\_\[Fecha:YYYY-MM-DD\].docx
+
+### 03_Calculos_y_Datos/
+
+- Hojas_Calculo/
+  - Calculo_Resistencia_Puesta_Tierra\_\[Código_Proyecto\].xlsx
+  - Dimensionamiento_Conductor_Tierra\_\[Código_Proyecto\].xlsx
+  - Lista_Materiales\_\[CódigoFF0F-Proyecto/\[Código_Proyecto\].xlsx
+
+### 04_Medios_Visuales/
+
+- Imagenes_Sitio/
+  - Foto_Instalacion\_\[Fecha:YYYY-MM-DD\]\_\[ID /
+
+\].jpg - Foto_Electrodo\_\[Fecha:YYYY-MM-DD\]\_\[ID\].jpg
+
+- Diagramas_Ilustrativos/
+  - Esquema_Puesta_Tierra_3D\_\[Código_Proyecto\].png
+  - Diagrama_Flujo_Instalacion.png
+
+### 05_Diapositivas/
+
+- Presentaciones_Internas/
+  - Presentacion_Progreso\_\[Fecha:YYYY-MM-DD\].pptx
+  - Presentacion_Reunion_Equipo\_\[Código_Proyecto\]\_v1.pptx
+- Presentaciones_Cliente/
+  - Presentacion_Propuesta\_\[Código_Proyecto\]\_v1.pptx
+  - Presentacion_Entrega_Final\_\[Fecha:YYYY-MM-DD\].pptx
+- Entregables/
+  - Presentacion_Propuesta\_\[Código_Proyecto\]\_v1.pdf
+  - Presentacion_Entrega_Final\_\[Fecha:YYYY-MM-DD\].pdf
+
+### 06_Simulaciones_ETAP/
+
+- Modelos/
+  - SPT_Modelo_Puesta_Tierra\_\[Código_Proyecto\]\_v1.etp
+  - SPT_Modelo_Validacion_Resistencia\_\[Código_Proyecto\]\_v2.etp
+- Reportes/
+  - Reporte_Simulacion_Resistencia\_\[Fecha:YYYY-MM-DD\].pdf
+  - Reporte_Fallas_Tierra\_\[Código_Proyecto\].pdf
+- Configuraciones/
+  - Config_Sistema_Puesta_Tierra\_\[Código_Proyecto\].xml
+  - Parametros_Simulacion\_\[Código_Proyecto\].xlsx
+
+### 07_Gestion_Proyecto/
+
+- Cronogramas/
+  - Cronograma_Proyecto\_\[Código_Proyecto\].xlsx
+  - Gantt_Proyecto\_\[Fecha:YYYY-MM-DD\].pdf
+- Correspondencia/
+  - Correo_Cliente_Aprobacion\_\[Fecha:YYYY-MM-DD\].pdf
+  - Minuta_Reunion\_\[Fecha:YYYY-MM-DD\].docx
+- Presupuestos/
+  - Presupuesto_Materiales\_\[Código_Proyecto\].xlsx
+  - Cotizacion_Proveedores\_\[Fecha:YYYY-MM-DD\].pdf
+
+### 08_Archivos_Respaldo/
+
+- Copias_Seguridad/
+  - Backup_Proyecto\_\[Fecha:YYYY-MM-DD\].zip
+- Versiones_Antiguas/
+  - Informe_Diseño_Preliminar_v1\_\[Fecha:YYYY-MM-DD\].docx
+  - Plano_General_v1\_\[Fecha:YYYY-MM-DD\].dwg
+  - SPT_Modelo_Puesta_Tierra_v1\_\[Fecha:YYYY-MM-DD\].etp
+
+## Recomendaciones para Organización Empresarial:
+
+- **Nomenclatura Estandarizada**:
+  - Usa un código de proyecto único (ej. SPT-2025-001) en todos los archivos para trazabilidad.
+  - Incluye versiones (v1, v2) o fechas (YYYY-MM-DD) en nombres de archivos, ej. "SPT_Diagrama_Unifilar_v1.dwg".
+- **Gestión de Planos**:
+  - Usa formatos DWG para diseño en AutoCAD y exporta a PDF para aprobaciones y distribución.
+  - Mantén una carpeta separada para planos aprobados, asegurando que solo las versiones finales estén allí.
+- **Simulaciones en ETAP**:
+  - Guarda archivos de modelo (.etp) en "Modelos" y exporta reportes a PDF en "Reportes".
+  - Usa archivos XML o XLSX para configuraciones y parámetros de simulación.
+  - Documenta cada simulación con un informe que incluya resultados y supuestos.
+- **Gestión de Diapositivas**:
+  - Separa presentaciones internas (para equipo de trabajo) de las destinadas al cliente.
+  - Exporta versiones finales de diapositivas a PDF en "Entregables" para distribución formal.
+  - Usa plantillas corporativas para mantener consistencia visual.
+- **Control de Revisiones**:
+  - Registra cambios en una carpeta de revisiones con comentarios en documentos separados.
+  - Usa software de gestión documental (como SharePoint o un sistema PLM) si está disponible en la empresa.
+- **Formatos de Archivos**:
+  - Documentos técnicos: Word (DOCX) para edición, PDF para versiones finales.
+  - Hojas de cálculo: Excel (XLSX) para cálculos dinámicos, PDF para entregables.
+  - Presentaciones: PowerPoint (PPTX) para reuniones internas, PDF para entregas al cliente.
+- **Respaldo y Seguridad**:
+  - Implementa respaldos automáticos en un servidor de la empresa o en la nube (OneDrive, Google Workspace).
+  - Usa contraseñas para archivos sensibles (como presupuestos) y registra el acceso en un sistema de gestión.
+- **Cumplimiento Normativo**:
+  - Asegúrate de incluir referencias a normativas relevantes (IEEE 80, NEC, etc.) en la carpeta de documentación.
+  - Archiva resultados de pruebas de resistencia y certificaciones en "Datos_Mediciones".
+- **Colaboración**:
+  - Usa una carpeta de correspondencia para rastrear comunicaciones con clientes y proveedores.
+  - Mantén un cronograma actualizado y accesible para todo el equipo en "Cronogramas".
+- **Imágenes y Medios**:
+- Organiza fotos por fecha y tipo, usando IDs únicos para identificar elementos específicos.
+- Comprime imágenes para ahorrar espacio, pero guarda originales en alta resolución en "Archivos_Respaldo".
