@@ -1,8 +1,8 @@
 📚 Documentación Técnica - Sistema de Puesta a Tierra
 
 **Proyecto:** Sistema de Puesta a Tierra [SPT-TD-2025]  
-**Ubicación:** Trabajo Dirigido Universitario - AgXplore  
-**Responsable:** [Tu Nombre o Equipo]  
+**Ubicación:** Parque Industrial Latino Americano(PILAT) - AgXplore  
+**Responsable:** Osinaga Garcia Albert Cesar  
 
 ---
 
