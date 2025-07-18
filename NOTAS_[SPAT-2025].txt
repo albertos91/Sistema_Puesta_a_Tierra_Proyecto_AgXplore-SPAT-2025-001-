@@ -1,0 +1,37 @@
+**Revisar las Tablas de:
+1: Presupuestos: porque se esta poniendo [IMPUESTOS IVA M.O.=(% DE SUMA DE SUBTOTAL DE M.O. + CARGAS SOCIALES)]
+2: Presupuestos: que son los gastos generales del 9%
+3: Presupuestos: que es la utilidad del 10%
+
+------------------------------
+**Revisar o rehacer el metodo de medicion de resistividad segun tipo de suelo. 
+usando las tablas de referencia del terreno segun la ubicacion geografica del lugar del proyecto.. siguiendo los datos del libro impreso
+
+
+------------------------------
+**Revisar el metodo del calculo de corriente de falla, para los calculos del sistema de puesta a tierra
+
+
+------------------------------
+**Revisar el calculo con el valor obtenido de la medicion con el telurometro de 139 ohm
+**Revisar El resultado de medicion de malla que es de 6.48 Imagen de WhatsApp 2025-06-14 a las 09.45.03_124c0662
+
+
+-----------------------------
+**Incluir la ficha tecnica del telurometro Fluke 1625-2
+
+
+
+----------------------------
+**Dimencion del diametro de conductor de alimentacion desde el trafo
+
+
+---------------------------
+**Cambiar la tabla de valores referenciales de sistemas de puesta a tierra Pagina 42 
+	Las subestaciones deben tener 1 ohm no 10 ohm https://www.google.com/search?sca_esv=42f97cfd63395683&sxsrf=AE3TifM-nhi2gmS9fJ1FGUyyuX2SWVBVCg:1752809359095&q=aplicaciones+de+sistemas+de+puesta+a+tierra+y+valores+referenciales&udm=2&fbs=AIIjpHx4nJjfGojPVHhEACUHPiMQht6_BFq6vBIoFFRK7qchKBv8IM7dq8CEqHDU3BN7lblo0LLC9Cn6mkAPuJ2pf_5ABQJNBpRf_5IF4ef41yz37Jcks9MPPEEtv7mY0bJRmJZLBtuDX4CDfYF40XMLC3IFTNXUKiF7blPNl5r3p1sSpQb3m3mw1I2zWnz_4G3yemmT6U-1QkChjCrXF9SaoVz2Zf-F7A&sa=X&ved=2ahUKEwiay9TZu8WOAxXTFLkGHbivEAcQtKgLKAF6BAgaEAE&biw=1920&bih=957&dpr=1#vhid=WjZxYx4uAVA1KM&vssid=mosaic
+
+
+--------------------------
+** Ver la imagen de duagrama unifilar de un sistema de puesta a tierra : https://info.cype.com/es/novedad/esquemas-de-conexion-a-tierra-tn-c-y-tn-c-s/
+	Realizar imagen de los diferentes sistemas de Puesta a tierra Imagen 16 Tipos de Sistemas de Puesta a Tierra (SPT) pag 46
+
